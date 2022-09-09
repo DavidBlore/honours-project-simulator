@@ -18,4 +18,4 @@ It was done for my honours project.
 
 Run `python3 example.py` to see a sample simulation. 
 
-*NOTE: This repo is just a supporting repo for the [main project repo](https://github.com/DavidBlore/hexapod-honours-project)*
+*NOTE: This repo is just a supporting repo for the [main project repo](https://github.com/DavidBlore/honours-project-hexapod)
